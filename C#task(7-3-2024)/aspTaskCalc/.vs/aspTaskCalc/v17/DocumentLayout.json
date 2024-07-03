@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\aspTaskCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F579653-C98A-4D20-B725-55DB7C86B616}|aspTaskCalc\\aspTaskCalc.csproj|c:\\users\\orange\\source\\repos\\asptaskcalc\\asptaskcalc\\calculator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F579653-C98A-4D20-B725-55DB7C86B616}|aspTaskCalc\\aspTaskCalc.csproj|solutionrelative:asptaskcalc\\calculator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F579653-C98A-4D20-B725-55DB7C86B616}|aspTaskCalc\\aspTaskCalc.csproj|c:\\users\\orange\\source\\repos\\asptaskcalc\\asptaskcalc\\calculator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2F579653-C98A-4D20-B725-55DB7C86B616}|aspTaskCalc\\aspTaskCalc.csproj|solutionrelative:asptaskcalc\\calculator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\aspTaskCalc\\aspTaskCalc\\Calculator.aspx.cs",
+              "RelativeDocumentMoniker": "aspTaskCalc\\Calculator.aspx.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\aspTaskCalc\\aspTaskCalc\\Calculator.aspx.cs",
+              "RelativeToolTip": "aspTaskCalc\\Calculator.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:22:07.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.aspx",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\aspTaskCalc\\aspTaskCalc\\Calculator.aspx",
+              "RelativeDocumentMoniker": "aspTaskCalc\\Calculator.aspx",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\aspTaskCalc\\aspTaskCalc\\Calculator.aspx",
+              "RelativeToolTip": "aspTaskCalc\\Calculator.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T21:46:57.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

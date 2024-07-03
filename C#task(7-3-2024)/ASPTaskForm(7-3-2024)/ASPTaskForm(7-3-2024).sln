@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPTaskForm(7-3-2024)", "ASPTaskForm(7-3-2024)\ASPTaskForm(7-3-2024).csproj", "{7E64FC0D-B5D8-46BF-BFA4-1CD8170F9642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E64FC0D-B5D8-46BF-BFA4-1CD8170F9642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E64FC0D-B5D8-46BF-BFA4-1CD8170F9642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E64FC0D-B5D8-46BF-BFA4-1CD8170F9642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E64FC0D-B5D8-46BF-BFA4-1CD8170F9642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B092515D-C3AB-4C9A-90EC-E449B38DFC9F}
+	EndGlobalSection
+EndGlobal
